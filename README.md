@@ -20,7 +20,7 @@ ROG hardware isn’t just for gaming—it powers real AI/ML workloads, data pipe
 - **Anomaly Detection Demos** → Applied data science with visualization and AI/ML techniques.  
 
 ### 🌍 Creator Perspective  
-I bridge **engineering, gaming culture, and performance systems**. Raised on Halo tournaments with my brothers, I now channel that same competitive edge into building high-performance data systems.  
+I bridge **engineering, gaming culture, and performance systems**. Raised on Halo tournaments with my brothers and homies, I now channel that same competitive edge into building high-performance data systems.  
 
 📌 Portfolio: [github.com/chihulloli123](https://github.com/chihulloli123)  
 📸 Instagram: [@chihulloli123](https://www.instagram.com/chihulloli123/)  
