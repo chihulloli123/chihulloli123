@@ -1,4 +1,4 @@
-Hi, I’m Amanda 👋
+Hi, I’m Amanda 
 
 Software Developer with a background in enterprise systems,
 legacy ASP.NET, SQL Server, and business-driven applications.
