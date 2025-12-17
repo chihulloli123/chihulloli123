@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Amanda 👋
 
-<!--
-**chihulloli123/chihulloli123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a background in enterprise systems,
+legacy ASP.NET, SQL Server, and business-driven applications.
 
-Here are some ideas to get you started:
+I’m comfortable working in existing codebases, understanding
+how systems evolved, and improving them without breaking
+critical workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+- C# / .NET
+- ASP.NET (Web Forms & Core concepts)
+- SQL & data modeling
+- Performance and systems architecture
